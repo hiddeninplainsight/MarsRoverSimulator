@@ -6,7 +6,8 @@
 
 namespace compiler
 {
-    std::vector<boost::filesystem::path> find_files_to_compile(boost::filesystem::path const& sketchDirectoryPath);
+    std::vector<boost::filesystem::path> find_files_to_compile(
+        boost::filesystem::path const& sketchDirectoryPath);
 }
 
 #endif

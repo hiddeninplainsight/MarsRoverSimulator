@@ -1,0 +1,3 @@
+[submodule "libraries/sdl_cpp_wrapper"]
+	path = libraries/sdl_cpp_wrapper
+	url = https://github.com/hiddeninplainsight/sdl_cpp_wrapper.git
